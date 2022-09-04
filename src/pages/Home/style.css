@@ -1,0 +1,11 @@
+#nav{
+  background-color: maroon;
+}
+
+.container{
+  background-color: rgb(238, 218, 218);
+  margin-left: 0px;
+  margin-right: 0px;
+  max-width: inherit;
+
+}
